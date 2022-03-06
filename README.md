@@ -12,7 +12,7 @@
 
 -----
  
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/S98G1YdpA6LsgJ0d16/giphy.gif" />
+<img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/C5dHXtdO0XSVJQPpXj/giphy.gif" />
 
 
 ### I'm a DevOps Engineer
