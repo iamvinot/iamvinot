@@ -11,9 +11,6 @@
 </a>
 
 -----
- 
-<img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/C5dHXtdO0XSVJQPpXj/giphy.gif" />
-
 
 ### I'm a DevOps Engineer
 
