@@ -1,26 +1,5 @@
  # Hi there, I'm Vinoth Mohan 👋
  
- <a href="https://www.linkedin.com/in/vinoth-mohan/">
-  <img align="left" alt="Vinoth Mohan | LinkedIn" width="20px" src="https://user-images.githubusercontent.com/83613651/156912247-86a6a7f6-e998-47ac-a131-3493cd72abee.svg" />
-</a>
-<a href="https://dev.to/vinothmohan">
-  <img align="left" alt="Vinoth Mohan | dev.to" width="20px" src="https://user-images.githubusercontent.com/83613651/156912527-b1b5cc27-f55d-43b1-b3c8-6c2277f31a07.svg" />
-</a>
-<a href="vinothmohanc@gmail.com">
-  <img align="left" alt="Vinoth mohan's Gmail" width="21px" src="https://user-images.githubusercontent.com/83613651/156912548-a87d4616-b4dd-48b0-8d67-036b77f9c44e.svg" />
-</a>
-
------
-
-### I'm a DevOps Engineer
-
-- 👨‍💻 I’m currently Automating CI/CD in Kubernetes.
-- 📚 I’m currently learning everything about DevOps and Cloud Automation.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fav: Be like Terminal. Able to do anything, But under the limits.
-
-----
-
  ### Tools & Tech 🛠   
 
 ![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=ffffff)
